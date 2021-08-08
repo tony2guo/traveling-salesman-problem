@@ -1,6 +1,8 @@
 # traveling-salesman-problem
 Solve traveling salesman problem (TSP) using branch and bound or brute force.
 
+Homework of National Tsing Hua University (NTHU) 109 20 CS 431100 Design and Analysis of Algorithms
+
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tony2guo/traveling-salesman-problem/blob/master/traveling-salesman-problem.ipynb)
 
 * Set use_input_txt = 1 if you want to use input from file, or set use_input_txt = 0 to auto generate input data.
